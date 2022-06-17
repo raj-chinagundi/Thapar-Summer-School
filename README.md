@@ -7,4 +7,4 @@ Sample Programs for Thapar Summer School Training <br>
 5. Video to Audio Converter [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kPfrCk1JFMMHUg3HSA7C0XwnTmtRjhpR?usp=sharing) <br>
 6. Cosine Similarity Usage [SwoonFlix](https://swoonflix.herokuapp.com/)<br>
 7. Youtube audio downloader [Example](https://colab.research.google.com/drive/1EeSg9TjmFYD_hWPzg1fd0fKB3Qw0biND?usp=sharing)<br>
-Get Google developer credentials by following steps in above ``DeveloperCredential.docx``
+Get Google developer credentials by following steps in above ``DeveloperCredentials.docx``
